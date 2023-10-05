@@ -4,9 +4,14 @@ This is a project created to learn Tailwind CSS, based on the original work by [
 
 ## Table of Contents
 
+- [Demo](#demo)
 - [Components](#components)
 - [Website Link](#website-link)
 - [Credits](#credits)
+
+## Demo
+
+![1](https://github.com/yusup-rd/nike-tailwind/assets/71926209/4eac3aca-46db-416d-b0ac-5ac11dbafd1e)
 
 ## Components
 
